@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biebrza National Park (approximate extent)",
+        "description": "Approximate bounding box covering the Biebrza National Park, Poland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [22.4, 53.3],
+            [23.6, 53.3],
+            [23.6, 53.75],
+            [22.4, 53.75],
+            [22.4, 53.3]
+          ]
+        ]
+      }
+    }
+  ]
+}

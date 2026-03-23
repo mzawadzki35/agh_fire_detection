@@ -1,0 +1,32 @@
+# ── Satellite data (large binary files) ──────────────────────────────────────
+data/
+
+# ── Temporary extraction directory ───────────────────────────────────────────
+temp/
+
+# ── Generated outputs ─────────────────────────────────────────────────────────
+output/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/error.txt
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Conda / virtual environments ──────────────────────────────────────────────
+.env
+.venv
+env/
+venv/
+
+# ── OS artifacts ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

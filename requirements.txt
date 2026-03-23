@@ -1,0 +1,18 @@
+# Fire Detection with MTG-FCI
+# Install with: pip install -r requirements.txt
+# Note: gdal must be installed separately (see environment.yml for conda setup)
+
+numpy
+scipy
+pandas
+geopandas
+shapely
+pyproj
+pyorbital
+matplotlib
+folium
+leafmap
+ipywidgets
+jupyterlab
+ipykernel
+notebook

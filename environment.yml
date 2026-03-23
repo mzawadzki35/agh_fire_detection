@@ -1,0 +1,27 @@
+name: fire_detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  # Core scientific stack
+  - numpy
+  - scipy
+  - pandas
+  # Geospatial
+  - gdal
+  - geopandas
+  - shapely
+  - pyproj
+  # Satellite / remote sensing
+  - pyorbital
+  # Visualization
+  - matplotlib
+  - folium
+  - ipywidgets
+  - leafmap
+  # Jupyter
+  - jupyterlab
+  - ipykernel
+  - notebook
+
